@@ -1,0 +1,2 @@
+# NFL-Win-Probability-Model
+In this project, I create 4 Win Probability Models for NFL teams based on current game conditions, such as down and distance from the end zone. I evaluate the win probability of the New Orleans Saints for their game against the Atlanta Falcons on December 6th, 2020. I visualize their win probability and provide a probability of a field goal kicker making a field goal based on distance from the goalposts.
